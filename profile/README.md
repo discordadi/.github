@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://adiplus.org/"><img src="/dadi-full.svg" width="546" alt="discord.adi" /></a>
+		<a href="https://adiplus.org/"><img src="dadi-full.svg" width="546" alt="discord.adi"></a>
 	</p>
 </div>
 
